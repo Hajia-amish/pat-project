@@ -1,0 +1,26 @@
+.main {margin: 10px}
+.nav-bar {
+	background: blue;
+	height: 60px;
+    width: 100%;
+    margin: 10px 0;
+}
+.first-container {background-color: pink;
+                   height: 200px;
+                   width: 100%}
+   .article {
+   	display: flex;
+   	justify-content: space-between;
+   	margin: 10px 0
+   }
+   .article div{
+   	background-color: blue;
+   	height: 150px;
+   	width: 400px;
+   }
+   .footer{
+   	background: yellow;
+	height: 60px;
+    width: 100%;
+    margin: 10px 0;
+   }

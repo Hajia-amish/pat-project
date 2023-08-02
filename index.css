@@ -1,0 +1,130 @@
+.banner{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 50px;
+}
+.amish{
+    width: 100%;
+    height: 250px;
+}
+p{
+    display: inline-flex;
+    
+}
+.sort{
+   display: inline-flex;
+   margin-left: 500px;
+}
+h4{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+span{
+    background-color:#CEE5D0;
+    width: 35px;
+    height: 35px;
+    display: inline-flex;
+    border-radius: 50%;
+    text-align: center;
+    font-family: 8;
+}
+.banner1{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 50px;
+}
+
+
+.banner2{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 50px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 35px;
+    height: 35px;
+    font-size: .8em;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+}
+
+.checkmark {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35px;
+    height: 35px;
+    font-size: .8em;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+    color: #1b1a20;
+    background-color: #ececec;
+    border: 1px solid transparent;
+}
+.card .free-shipping {
+    position: absolute;
+    color: #ececec;
+    top: 10px;
+    right: 10px;
+    padding: 5px;
+    font-size: .6em;
+    background-color: #1b1a20;
+    cursor: default;
+}
+.card-body .button{
+    background-color: #1b1a20;
+    color: #fff;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.price{
+    text-align: center;
+    font-size: 14px;
+}
+.content-1,.content-2,.content-3{
+    margin-top: 20px;
+}
+.title{
+    text-align: center;
+    font-size: 12px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 35px;
+    height: 35px;
+    font-size: .8em;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+}
